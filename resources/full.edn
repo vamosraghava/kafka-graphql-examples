@@ -5,4 +5,4 @@
  :max-time-outs               20
  :loops-to-generate-generator 60
  :loops-for-success           1000
- :base-test-file-name         "full-"}
+ :base-test-file-name         "micronaut-"}
